@@ -1,0 +1,11 @@
+﻿# NetBeans / Ant build outputs
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# OS
+.DS_Store
+Thumbs.db
